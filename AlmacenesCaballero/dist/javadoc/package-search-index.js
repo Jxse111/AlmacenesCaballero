@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"almacenescaballero.productos"},{"l":"almacenescaballero.productos.aguamineral"},{"l":"almacenescaballero.productos.almacen"},{"l":"almacenescaballero.productos.bebidaazucarada"},{"l":"almacenescaballero.pruebas"}];updateSearchResults();
